@@ -8,7 +8,7 @@ rem ---------------- Start the app ----------------
 start run.bat
 
 rem ---- Post to Slack ----
-call post-slack.exe
+rem ---- call post-slack.exe
 
 popd
 exit
